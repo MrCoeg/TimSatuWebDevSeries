@@ -70,23 +70,28 @@ nav ul li img{
 }
 
 .content{
-    margin: 100px;
+    margin:50px;
 }
 
 .one{
     width: 550px;
     margin:20px;
+    padding: 10px;
     box-shadow: 5px 5px 10px 10px rgba(0,0,0,.1);
 }
 
 .two{
+    width: 550px;
+    height: 220px;
     margin: 20px;
+    padding: 10px;
     box-shadow: 5px 5px 10px 10px rgba(0,0,0,.1);
 }
 
 .three{
-    margin: 40px;
+    margin: 30px;
+    padding: 10px;
     width: 550px;
-    height: 220px;
+    height: 250px;
     box-shadow: 5px 5px 10px 10px rgba(0,0,0,.1);
 }
